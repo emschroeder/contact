@@ -4,6 +4,16 @@ body {
 	background: #7C7159;
 }
 
+.nav {
+	margin-top: 20px;
+}
+
+.logo {
+	position: relative;
+	height: 30%;
+	width: 30%;
+}
+
 a:link,
 a:visited {
 font-family: 'Arimo', sans-serif;
