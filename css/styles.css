@@ -1,7 +1,24 @@
 /* Your Website Styles */
 
+body {
+	background: #7C7159;
+}
+
+a:link,
+a:visited {
+font-family: 'Arimo', sans-serif;
+  color: #086B63;
+  text-decoration: none;
+    transition: .25s ease-in-out;
+}
+
+a:hover {
+  color: #77A490;
+  text-decoration: none;
+  transition: .25s ease-in-out;
+}
 
 /* Show Grid */
 .showgrid {
-	background: url("../img/grid-bg.png") repeat-y;
+	background: url("") repeat-y;
 }
